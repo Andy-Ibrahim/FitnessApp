@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">ClassPass</string>
+    
+    <!-- General -->
+    <string name="browse">Browse</string>
+    <string name="my_passes">My Passes</string>
+    <string name="browse_gyms">Browse Gyms</string>
+    <string name="gym_details">Gym Details</string>
+    <string name="purchase_pass">Purchase Pass</string>
+    <string name="search_gyms">Search gyms and studios...</string>
+    <string name="no_gyms_found">No gyms found</string>
+    <string name="no_passes_found">No passes found</string>
+    <string name="no_purchased_passes">No purchased passes</string>
+    <string name="no_active_passes">No active passes</string>
+    <string name="no_expired_passes">No expired passes</string>
+    <string name="back">Back</string>
+    <string name="credits">Credits: %1$d</string>
+    <string name="all_gyms">All Gyms</string>
+    <string name="favs">Favs (%1$d)</string>
+    <string name="sort">Sort</string>
+    <string name="buy_pass_credits">Buy Pass - %1$d credits</string>
+    <string name="km_away">%1$.1f km</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="premium">Premium</string>
+    <string name="luxury">Luxury</string>
+    <string name="purchased">PURCHASED</string>
+    <string name="active">ACTIVE</string>
+    <string name="expired">EXPIRED</string>
+    
+    <!-- Gym Details -->
+    <string name="gym_image">Gym Image</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="add_gym">Search for gyms using Places API</string>
+    <string name="available_passes">Available Passes</string>
+    <string name="upcoming_classes">Upcoming Classes</string>
+    
+    <!-- Pass -->
+    <string name="use_pass">Use Pass</string>
+    <string name="purchase">Purchase</string>
+    
+    <!-- Purchase -->
+    <string name="order_summary">Order Summary</string>
+    <string name="total">Total:</string>
+    <string name="payment_information">Payment Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="cvv">CVV</string>
+    <string name="complete_purchase">Complete Purchase</string>
+    
+    <!-- Tabs -->
+    <string name="active_passes">Active</string>
+    <string name="expired_passes">Expired</string>
+    
+    <!-- Messages -->
+    <string name="purchase_success">Purchase successful!</string>
+    <string name="purchase_failed">Purchase failed. Please try again.</string>
+    <string name="pass_used">Pass used successfully!</string>
+    
+    <!-- AI Character -->
+    <string name="ai_character">AI Character</string>
+    <string name="fitbot">FitBot</string>
+    <string name="microphone">Microphone</string>
+    <string name="tap_mic_to_speak">Tap the mic to speak with me!</string>
+    <string name="listening">Listening...</string>
+    <string name="processing">Processing...</string>
+    <string name="speaking">Speaking...</string>
+    <string name="ai_assistant">AI Assistant</string>
+</resources>

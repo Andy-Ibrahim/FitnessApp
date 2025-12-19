@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ClassPass Dark Theme Colors - Facebook Blue Style -->
+    <color name="primary_green">#1877F2</color>
+    <color name="primary_green_dark">#0A5CBF</color>
+    <color name="primary_green_light">#5A9EF5</color>
+    
+    <!-- Premium Badge Colors -->
+    <color name="premium_orange">#FF8C42</color>
+    <color name="luxury_purple">#B84FC5</color>
+    
+    <!-- Text Colors (Inverted for dark mode) -->
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_green">#5A9EF5</color>
+    
+    <!-- Background Colors (Dark) -->
+    <color name="background_light">#121212</color>
+    <color name="background_white">#1E1E1E</color>
+    
+    <!-- Standard Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#2C2C2C</color>
+    <color name="gray_medium">#5E5E5E</color>
+    
+    <!-- Rating Color -->
+    <color name="star_yellow">#FFC107</color>
+</resources>
+

@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!-- Character body -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M100,150 C75,150 55,130 55,105 L55,75 C55,50 75,30 100,30 C125,30 145,50 145,75 L145,105 C145,130 125,150 100,150 Z"/>
+    <!-- Character face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,130 C85,130 73,118 73,103 L73,83 C73,68 85,56 100,56 C115,56 127,68 127,83 L127,103 C127,118 115,130 100,130 Z"/>
+    <!-- Left eye -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M88,85 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0"/>
+    <!-- Right eye -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M112,85 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0"/>
+    <!-- Smile -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M85,105 Q100,115 115,105"
+        android:strokeColor="#6200EE"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"/>
+    <!-- Fitness band/headband -->
+    <path
+        android:fillColor="#03DAC6"
+        android:pathData="M70,65 L130,65 L130,72 L70,72 Z"/>
+</vector>
+
